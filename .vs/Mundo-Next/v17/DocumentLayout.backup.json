@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Proyectos\\Mundo-Next\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63245B48-EAC6-C2FE-12BC-2283F0BD735B}|CreatorToolkitCustomScripts.csproj|e:\\proyectos\\mundo-next\\assets\\scripts\\ui\\imageuiactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63245B48-EAC6-C2FE-12BC-2283F0BD735B}|CreatorToolkitCustomScripts.csproj|solutionrelative:assets\\scripts\\ui\\imageuiactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63245B48-EAC6-C2FE-12BC-2283F0BD735B}|CreatorToolkitCustomScripts.csproj|E:\\Proyectos\\Mundo-Next\\assets\\scripts\\ui\\imageinteractuable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63245B48-EAC6-C2FE-12BC-2283F0BD735B}|CreatorToolkitCustomScripts.csproj|solutionrelative:assets\\scripts\\ui\\imageinteractuable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63245B48-EAC6-C2FE-12BC-2283F0BD735B}|CreatorToolkitCustomScripts.csproj|E:\\Proyectos\\Mundo-Next\\assets\\scripts\\ui\\imageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63245B48-EAC6-C2FE-12BC-2283F0BD735B}|CreatorToolkitCustomScripts.csproj|solutionrelative:assets\\scripts\\ui\\imageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageInteractuable.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Mundo-Next\\Assets\\Scripts\\UI\\ImageInteractuable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ImageInteractuable.cs",
+              "ToolTip": "E:\\Proyectos\\Mundo-Next\\Assets\\Scripts\\UI\\ImageInteractuable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ImageInteractuable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T22:07:25.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageUi.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Mundo-Next\\Assets\\Scripts\\UI\\ImageUi.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ImageUi.cs",
+              "ToolTip": "E:\\Proyectos\\Mundo-Next\\Assets\\Scripts\\UI\\ImageUi.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ImageUi.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T22:06:12.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageUiActive.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Mundo-Next\\Assets\\Scripts\\UI\\ImageUiActive.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ImageUiActive.cs",
+              "ToolTip": "E:\\Proyectos\\Mundo-Next\\Assets\\Scripts\\UI\\ImageUiActive.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ImageUiActive.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBgAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T22:05:07.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

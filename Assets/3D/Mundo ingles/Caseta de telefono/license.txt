@@ -1,0 +1,11 @@
+Model Information:
+* title:	London Red Phone Box
+* source:	https://sketchfab.com/3d-models/london-red-phone-box-e24c57e44f0c42039de63b19b064b87c
+* author:	afonichiev (https://sketchfab.com/afonichiev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "London Red Phone Box" (https://sketchfab.com/3d-models/london-red-phone-box-e24c57e44f0c42039de63b19b064b87c) by afonichiev (https://sketchfab.com/afonichiev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

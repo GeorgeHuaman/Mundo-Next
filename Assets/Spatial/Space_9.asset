@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
+  m_Name: Space_9
+  m_EditorClassIdentifier: 
+  version: 1
+  sku: 5cyrep6jh84b5yeofzbmlm7d
+  packageName: "Mundo Next 1\xBAT Cuatitlan"
+  thumbnail: {fileID: 2800000, guid: 50b72bacb9f7e58448138dc909bb40ed, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  worldID: n75xxk5adgbb480vuwm12
+  scene: {fileID: 102900000, guid: 8746227e1f9c5df43992f6b4795fad97, type: 3}
+  csharpAssembly: {fileID: 5897886265953266890, guid: 46bf7e831fa806a4783fd62c46d9fcd1,
+    type: 3}
+  embeddedPackageAssets: []
+  networkPrefabs: []
+  settings:
+    serverInstancingEnabled: 1
+    serverCapacitySetting: 0
+    serverInstanceCapacity: 16

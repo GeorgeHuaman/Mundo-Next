@@ -1,0 +1,11 @@
+Model Information:
+* title:	London mailbox
+* source:	https://sketchfab.com/3d-models/london-mailbox-3830341e56834cbaafc0ae8d62baca01
+* author:	CliaLpz (https://sketchfab.com/CliaLpz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "London mailbox" (https://sketchfab.com/3d-models/london-mailbox-3830341e56834cbaafc0ae8d62baca01) by CliaLpz (https://sketchfab.com/CliaLpz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

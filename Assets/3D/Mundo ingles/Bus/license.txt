@@ -1,0 +1,11 @@
+Model Information:
+* title:	London DD Bus
+* source:	https://sketchfab.com/3d-models/london-dd-bus-a2a2736856a7452bbbaf712e07ed8eb4
+* author:	jsa201077 (https://sketchfab.com/unityjsa7)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "London DD Bus" (https://sketchfab.com/3d-models/london-dd-bus-a2a2736856a7452bbbaf712e07ed8eb4) by jsa201077 (https://sketchfab.com/unityjsa7) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
