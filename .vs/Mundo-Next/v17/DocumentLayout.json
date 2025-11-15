@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "E:\\Proyectos\\Mundo-Next\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{54377338-3F7A-9A95-9922-510AA926899F}|NewAssembly.csproj|e:\\proyectos\\mundo-next\\assets\\scripts\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54377338-3F7A-9A95-9922-510AA926899F}|NewAssembly.csproj|solutionrelative:assets\\scripts\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Proyectos\\Mundo-Next\\Library\\PackageCache\\com.unity.shadergraph@12.1.10\\Editor\\Importers\\ShaderGraphImporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.shadergraph@12.1.10\\Editor\\Importers\\ShaderGraphImporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54377338-3F7A-9A95-9922-510AA926899F}|NewAssembly.csproj|e:\\proyectos\\mundo-next\\assets\\scripts\\ui\\imageuiactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54377338-3F7A-9A95-9922-510AA926899F}|NewAssembly.csproj|E:\\Proyectos\\Mundo-Next\\assets\\scripts\\ui\\imageuiactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54377338-3F7A-9A95-9922-510AA926899F}|NewAssembly.csproj|solutionrelative:assets\\scripts\\ui\\imageuiactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Portal.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Mundo-Next\\Assets\\Scripts\\Portal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Portal.cs",
+              "ToolTip": "E:\\Proyectos\\Mundo-Next\\Assets\\Scripts\\Portal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Portal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T21:47:08.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ShaderGraphImporter.cs",
               "DocumentMoniker": "E:\\Proyectos\\Mundo-Next\\Library\\PackageCache\\com.unity.shadergraph@12.1.10\\Editor\\Importers\\ShaderGraphImporter.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.shadergraph@12.1.10\\Editor\\Importers\\ShaderGraphImporter.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ImageInteractuable.cs",
               "DocumentMoniker": "E:\\Proyectos\\Mundo-Next\\Assets\\Scripts\\UI\\ImageInteractuable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ImageInteractuable.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ImageUi.cs",
               "DocumentMoniker": "E:\\Proyectos\\Mundo-Next\\Assets\\Scripts\\UI\\ImageUi.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ImageUi.cs",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ImageUiActive.cs",
               "DocumentMoniker": "E:\\Proyectos\\Mundo-Next\\Assets\\Scripts\\UI\\ImageUiActive.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ImageUiActive.cs",
@@ -75,8 +92,7 @@
               "RelativeToolTip": "Assets\\Scripts\\UI\\ImageUiActive.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAuwBgAAAB+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T22:05:07.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T22:05:07.855Z"
             }
           ]
         }
