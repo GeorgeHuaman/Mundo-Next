@@ -13,11 +13,12 @@ MonoBehaviour:
   m_Name: Space_19
   m_EditorClassIdentifier: 
   version: 1
-  sku: 
+  sku: fn88hjk4fqrhkpfe9ne3q3ez
   packageName: "Epic English World IEX 4\xB0 Primary"
   thumbnail: {fileID: 2800000, guid: 50b72bacb9f7e58448138dc909bb40ed, type: 3}
-  savedProjectSettings: {fileID: 0}
-  worldID: 
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  worldID: n75xxk5adgbb480vuwm12
   scene: {fileID: 102900000, guid: b93c8c766b4d9074693c89e2efac651a, type: 3}
   csharpAssembly: {fileID: 5897886265953266890, guid: 46bf7e831fa806a4783fd62c46d9fcd1,
     type: 3}

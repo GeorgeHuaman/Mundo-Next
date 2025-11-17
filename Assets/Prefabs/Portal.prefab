@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5901816612894231012}
   - component: {fileID: 5901816612894230554}
   - component: {fileID: 5901816612894231013}
-  m_Layer: 5
+  m_Layer: 6
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -145,7 +145,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5901816613414276442}
   - component: {fileID: 5901816613414276443}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Reflection Probe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -212,7 +212,7 @@ GameObject:
   - component: {fileID: 5901816613868835012}
   - component: {fileID: 5901816613868835015}
   - component: {fileID: 5901816613868835014}
-  m_Layer: 5
+  m_Layer: 6
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -315,7 +315,7 @@ GameObject:
   - component: {fileID: 5901816614057332856}
   - component: {fileID: 5901816614057332863}
   - component: {fileID: 9140176555567050011}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Portal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
